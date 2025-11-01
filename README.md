@@ -3,4 +3,4 @@ This repository contains codes used in our SenSys'25 paper "PIPE: Privacy-preser
 
 
 ## Contact
-Nan Wu by rcheng4@gmu.edu
+Nan Wu by nwu5@gmu.edu
